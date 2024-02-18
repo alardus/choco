@@ -1,5 +1,2 @@
-# choco
-
-```
-choco install googlechrome zoom dropbox em-client miro notion telegram steam foxitreader mattermost-desktop obsidian
-```
+# Choco
+Just a quick way to install packs that I need myself every time.
